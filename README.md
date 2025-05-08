@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanika S</h1>
-<h3 align="center"> <b>I am UI/UX Designer and  Cybersecurity Enthusiast (IAM Specialist)</b></h3>
+<h3 align="center"> <B><i>I am UI/UX Designer and  Cybersecurity Enthusiast (IAM Specialist)</i></B></h3> <br>
 
 
 - 🌱 I’m currently deepening my skills in **IAM Security & UX Research**
