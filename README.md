@@ -5,7 +5,7 @@
 - 🌱 I’m currently deepening my skills in **IAM Security & UX Research**
 - 💻 I’m skilled in **C, Java (Basic), Python (Intermediate), HTML, CSS, JS**
 - 🎨 Passionate about creating user-friendly, secure designs!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link) | [Instagram](https://www.instagram.com/your-handle)
+- 📫 How to reach me: https://www.linkedin.com/in/kanika-s-5b348125a | (https://www.instagram.com/twin_butterflies_08)
 
 ---
 
